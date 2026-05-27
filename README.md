@@ -1,7 +1,8 @@
 # Flappy Bird (Java + JavaFX)
 
 ## Description  
-A simple Flappy Bird Game built using Java and JavaFX. “Tap, survive but don’t hit the pipes.”
+A simple Flappy Bird Game built using Java and JavaFX.
+“Tap, survive but don’t hit the pipes.”
 
 The bird continuously falls due to gravity and the player must press a key to make it flap upward. Pipes move from right to left with random gaps. The score increases as the bird successfully passes through pipes. Colliding with a pipe or the ground ends the game. Press R to restart.
 
@@ -27,7 +28,6 @@ The bird continuously falls due to gravity and the player must press a key to ma
 FlappyBirdGame  
 - src/  
   - App.java  
-- resources/  
   - bird3.png  
   - bg.jpg  
 - README.md  
@@ -45,6 +45,5 @@ FlappyBirdGame
 - If images don’t load, check file paths first.
 
 ## Author  
-- Fatiha Tasnim Upoma(2023831012)
-- Ariba Sharaf Chowdhury(2023831051)
--
+- Fatiha Tasnim Upoma (2023831012)
+- Ariba Sharaf Chowdhury (2023831051)
