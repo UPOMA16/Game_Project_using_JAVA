@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "FirstJavaApp\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\User\\Documents\\javafx\\lib\\javafx.base.jar",
+        "c:\\Users\\User\\Documents\\javafx\\lib\\javafx.controls.jar",
+        "c:\\Users\\User\\Documents\\javafx\\lib\\javafx.fxml.jar",
+        "c:\\Users\\User\\Documents\\javafx\\lib\\javafx.graphics.jar",
+        "c:\\Users\\User\\Documents\\javafx\\lib\\javafx.media.jar",
+        "c:\\Users\\User\\Documents\\javafx\\lib\\javafx.swing.jar",
+        "c:\\Users\\User\\Documents\\javafx\\lib\\javafx.web.jar",
+        "c:\\Users\\User\\Documents\\javafx\\lib\\javafx-swt.jar"
+    ]
+}
